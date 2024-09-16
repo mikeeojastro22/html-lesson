@@ -14,6 +14,8 @@
     color: white;
     padding-inline: 30px;
     /* padding-left and padding-right */
+    position: sticky;
+    top: 0;
 }
 
 .shopee-header {
@@ -58,7 +60,7 @@ footer {
     text-align: center;
 }
 
-a {
+span a {
     color: #ee4d2d;
     text-decoration: none;
 }
